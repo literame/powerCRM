@@ -2,7 +2,8 @@ body{
     
     margin: 0;
     padding: 0;
-   background: url(../img/Girl-using-smartphone-blue.png)  no-repeat;
+    background: url(../img/Girl-using-smartphone-blue.png)  no-repeat;
+    /*background-size: cover; */
     font-family: sans-serif;
     height: 100vh;
 }
