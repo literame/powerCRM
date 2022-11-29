@@ -4,10 +4,13 @@ body{
     padding: 0;
     background: url(../img/Girl-using-smartphone-blue.png)  no-repeat;
     /*background-size: cover; */
-    font-family: sans-serif;
+    font-family: RobotoCondensed;
     height: 100vh;
 }
-
+@font-face {
+    font-family: RobotoCondensed;
+    src: url(../../fonts/RobotoCondensed-Regular.ttf);
+}
 .loggin{
     width: 320px;
     height: 420px;
@@ -72,7 +75,7 @@ body{
 #btn{
     text-decoration: none;
     text-align: center;
-    padding-top: 10px;
+    padding-top: 20px;
     cursor: pointer;
     display: block;
     color: white;

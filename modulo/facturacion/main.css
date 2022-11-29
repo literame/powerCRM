@@ -26,6 +26,15 @@ body{
     
 }
 .nav img {  width: 30px; height: 30px; margin-top: 10px;}
+.center{
+    margin-top: 100px;
+    height: auto;
+
+}
+.modulos a{
+    text-decoration: none;
+    color: white;
+}
 
 .nav .modulos {
     margin: 10px 0;
